@@ -1,5 +1,17 @@
 [
     {
+        "name":"欧乐影院",
+        "api":"cms://ole",
+    },
+    {
+        "name": "欧乐影院",
+        "api": "cms://ole",
+    },
+    {
+        "name": "量子资源",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
         "name": "海外看",
         "api": "https://haiwaikan.com/api.php/provide/vod/",
         "note": "需要代理"
@@ -13,9 +25,9 @@
         "api": "cms://zxzj",
     },
     {
-        "name": "欧乐影院",
-        "api": "cms://ole",
-    },
+        "name": "樂視資源",
+        "api": "https://leshizyapi.com/api.php/provide/vod/"
+    },  
     {
         "name": "极速资源",
         "api": "https://jszyapi.com/api.php/provide/vod/"
@@ -44,11 +56,7 @@
         "name": "非凡资源",
         "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
     },
-    {
-        "name": "量子资源",
-        "api": "https://cj.lziapi.com/api.php/provide/vod/"
-    },
-    {
+   {
         "name": "ikun资源",
         "api": "https://ikunzyapi.com/api.php/provide/vod/"
     },
@@ -96,10 +104,5 @@
         "name": "四圈资源",
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     }
-     ,
-    {
-        "name": "樂視",
-        "api": "https://leshizyapi.com/api.php/provide/vod/"
-    }  
-    
+   
 ]
