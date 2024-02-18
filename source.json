@@ -96,4 +96,10 @@
         "name": "四圈资源",
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     }
+     ,
+    {
+        "name": "樂視",
+        "api": "https://leshizyapi.com/api.php/provide/vod/"
+    }  
+    
 ]
